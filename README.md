@@ -1,6 +1,7 @@
 # Volatility3-GUI
 
 Volatility 3(`vol.py`)를 GUI로 실행하기 위한 도구입니다.
+Volatility 3는 제공되지 않습니다.
 
 ## 사용 방법
 
