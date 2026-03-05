@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.volgui_state.json
+volgui_output/
+.DS_Store
+Thumbs.db
+
+build/
+dist/
+*.spec
+version_info.txt
+official_test_images/
+release/
+.venv/
+env/
